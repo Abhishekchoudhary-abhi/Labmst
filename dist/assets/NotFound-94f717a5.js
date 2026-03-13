@@ -1,0 +1,1 @@
+import{j as e}from"./index-3305d402.js";function t(){return e.jsxs("div",{style:{textAlign:"center",padding:"2rem"},children:[e.jsx("h1",{children:"404 - Page Not Found"}),e.jsx("p",{children:"The page you are looking for does not exist."}),e.jsx(Link,{to:"/",style:{color:"#61dafb",textDecoration:"none"},children:"Go back to Home"})]})}export{t as default};
